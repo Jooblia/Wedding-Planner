@@ -1,0 +1,12 @@
+---
+:id: 256094509
+:submitters:
+- :name: Julia Lundblad
+  :email: jlundbl1@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-06-02 02:20:58.614895000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-06-01 19:20:58.614895000 Z
+:status: processed
+:score: 100.0
